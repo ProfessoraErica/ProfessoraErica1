@@ -1,9 +1,9 @@
 # Bem vindo ao perfil da ProfessoraErica
 
 - **Érica Isabel da Silva**
-- 📖 _Eu leciono no Colegio Neide Bertasso Beraldo_
+- 📖 _Eu leciono no Colegio Neide Bertasso Beraldo_ 🦋
 - 🦋 Tenho 28 anos 
-- 🧮 Ministro aula na 1ª serie A do Ensino
+- 🧮 Ministro aula na 1ª serie B do Ensino
 - 💻 Estou estudando na [Alura](https://www.alura.com.br)
 - 🖱️ Estou me desenvolvendo  na linguagem JavaScript
 - 🌸 Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
